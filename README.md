@@ -21,7 +21,7 @@
 ---
 
 ## PROJECT OVERVIEW
-This repository contains the completion of the PM Accelerator Tech Assessment for Weather Trend Forecasting. It involves comprehensive analysis, data storytelling, and predictive modeling using historical global weather data. 
+This repository contains the completion of the PM Accelerator Tech Assessment for Weather Trend Forecasting. It involves comprehensive analysis, data storytelling, and predictive modeling using historical global weather data.
 
 The project fulfills both the Basic and Advanced assessment requirements by focusing on descriptive observations, baseline model performance, and advanced techniques such as anomaly detection and spatial analysis.
 
@@ -39,16 +39,16 @@ This project leverages the following core libraries:
 ## METHODOLOGY
 Our approach is divided into two main notebooks, moving from basic assessment to advanced analysis:
 
-1. **Data Cleaning & Preprocessing:** 
+1. **Data Cleaning & Preprocessing:**
    - Imputed missing numerical values via the median and categorical values via the mode.
    - Extracted temporal features (Year, Month, Day) from timestamps.
-2. **Outlier Handling:** 
+2. **Outlier Handling:**
    - Utilized IQR (Interquartile Range) capping to handle extreme outliers in precipitation, preventing skew in our linear models.
-3. **Scaling:** 
+3. **Scaling:**
    - Standard scaling was applied to continuous features to optimize gradient-based learning.
-4. **Modeling:** 
+4. **Modeling:**
    - Evaluated multiple models including a Baseline Linear Regression, Random Forest, XGBoost, and an Ensemble Voting Regressor.
-5. **Advanced Techniques:** 
+5. **Advanced Techniques:**
    - Employed Isolation Forests for multivariate anomaly detection (identifying extreme weather events).
    - Mapped continental climate zones and correlated environmental factors with weather stagnation.
 
@@ -82,6 +82,8 @@ weather-trend-forecasting/
 │   └── figures/
 ├── reports/
 │   └── project_report.md
+└── presentation/
+    └── Weather_Trend_Forecasting_Consulting.pptx
 ```
 
 ## INSTALLATION
