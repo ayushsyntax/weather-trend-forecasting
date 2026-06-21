@@ -82,8 +82,6 @@ weather-trend-forecasting/
 │   └── figures/
 ├── reports/
 │   └── project_report.md
-└── presentation/
-    └── Weather_Trend_Forecasting_Consulting.pptx
 ```
 
 ## INSTALLATION
