@@ -19,8 +19,6 @@
 - [Repository Structure](#-repository-structure)
 - [Installation](#-installation)
 - [Demo Video](#-demo-video)
-- [Submission Checklist](#-submission-checklist)
-- [Author Info](#-author-info)
 - [License](#-license)
 
 ---
