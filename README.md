@@ -118,23 +118,9 @@ To run this project locally, follow these steps:
    ```
 
 ## 🎥 Demo Video
-Watch the project walkthrough and demo here:  
+Watch the project walkthrough and demo here:
 **[YouTube Demo Video](https://youtu.be/CqGPecOg9YA)**
 
-## ✅ Submission Checklist
-- [x] PM Accelerator Mission Statement included
-- [x] Basic Assessment Notebook (`01_weather_forecasting.ipynb`) complete
-- [x] Advanced Assessment Notebook (`02_advanced_analysis.ipynb`) complete
-- [x] Requirements & Tech Stack defined
-- [x] Key findings and results quantified
-- [x] Limitations discussed
-- [x] Professional Markdown formatting
-
-## 👤 Author Info
-- **Name:** Ayush Kumar
-- **Location:** Panipat, Haryana, India
-- **LinkedIn:** [Ayush Kumar](https://www.linkedin.com/in/ayush-kumar/) *(Update if needed)*
-- **Email:** [your.email@example.com](mailto:your.email@example.com) *(Update if needed)*
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
